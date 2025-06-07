@@ -132,10 +132,12 @@ For EU compliance, consider adding:
 - **Mobile display problems**: Test on actual mobile devices, not just browser resize
 
 ### Browser Compatibility
-The website works on:
-- Chrome, Firefox, Safari, Edge (latest versions)
+The website targets **modern browsers** and is officially supported on:
+- Chrome (latest versions)
+- Firefox (latest versions)
+- Safari (latest versions)
+- Edge (latest versions)
 - Mobile browsers on iOS and Android
-- Internet Explorer 11+ (with some limitations)
 
 ## Next Steps
 
